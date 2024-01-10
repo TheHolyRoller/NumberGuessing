@@ -15,10 +15,8 @@ public void driverMethod(){
 
 
         Game game = new Game();
-        game.runGame(); 
+        game.RunGame(); 
         
-        
-
 }
 
 
