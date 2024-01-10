@@ -14,11 +14,10 @@ public Driver(){
 public void driverMethod(){
 
 
-// Instantiate the class here 
-
-// Call the method on that class here 
-
-
+        Game game = new Game();
+        game.runGame(); 
+        
+        
 
 }
 

@@ -1,0 +1,15 @@
+C:\Users\User\Documents\NumberGuessing\bin\Debug\net8.0\NumberGuessing.exe
+C:\Users\User\Documents\NumberGuessing\bin\Debug\net8.0\NumberGuessing.deps.json
+C:\Users\User\Documents\NumberGuessing\bin\Debug\net8.0\NumberGuessing.runtimeconfig.json
+C:\Users\User\Documents\NumberGuessing\bin\Debug\net8.0\NumberGuessing.dll
+C:\Users\User\Documents\NumberGuessing\bin\Debug\net8.0\NumberGuessing.pdb
+C:\Users\User\Documents\NumberGuessing\obj\Debug\net8.0\NumberGuessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\NumberGuessing\obj\Debug\net8.0\NumberGuessing.AssemblyInfoInputs.cache
+C:\Users\User\Documents\NumberGuessing\obj\Debug\net8.0\NumberGuessing.AssemblyInfo.cs
+C:\Users\User\Documents\NumberGuessing\obj\Debug\net8.0\NumberGuessing.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NumberGuessing\obj\Debug\net8.0\NumberGuessing.sourcelink.json
+C:\Users\User\Documents\NumberGuessing\obj\Debug\net8.0\NumberGuessing.dll
+C:\Users\User\Documents\NumberGuessing\obj\Debug\net8.0\refint\NumberGuessing.dll
+C:\Users\User\Documents\NumberGuessing\obj\Debug\net8.0\NumberGuessing.pdb
+C:\Users\User\Documents\NumberGuessing\obj\Debug\net8.0\NumberGuessing.genruntimeconfig.cache
+C:\Users\User\Documents\NumberGuessing\obj\Debug\net8.0\ref\NumberGuessing.dll
